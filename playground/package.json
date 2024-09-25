@@ -8,6 +8,7 @@
     "build": "npx rsbuild build"
   },
   "devDependencies": {
+    "@rsbuild/core": "^1.0.6",
     "@rsbuild/plugin-vue": "^1.0.1",
     "rsbuild-plugin-svg-sprite-loader": "^0.0.2"
   },

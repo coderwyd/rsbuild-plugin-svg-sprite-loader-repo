@@ -9,7 +9,9 @@ defineOptions({
   <div>
     app
 
-    <SvgIcon name="gather_buoys" style="font-size: 50px" />
+    <SvgIcon name="gather_buoys" style="font-size: 60px" />
+    <SvgIcon name="asset" style="font-size: 60px" />
+    <SvgIcon name="copy" style="font-size: 60px; color: red" />
   </div>
 </template>
 
